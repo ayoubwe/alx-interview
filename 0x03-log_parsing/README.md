@@ -1,3 +1,2 @@
-## The project of 0x03. Log Parsing
-
-My ptoject of 0x03. Log Parsing in ALX
+## The Project 0x03. Log Parsing
+My project of 0x03. Log Parsing for alx
